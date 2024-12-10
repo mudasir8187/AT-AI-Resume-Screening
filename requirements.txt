@@ -6,4 +6,3 @@ Pillow
 pdf2image
 python-docx
 google-generativeai
-base64
