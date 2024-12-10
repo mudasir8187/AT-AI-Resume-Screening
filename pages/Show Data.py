@@ -9,7 +9,7 @@ st.set_page_config(page_title="Show Resumes")
 mydb = mysql.connector.connect(
     user='root',
     password='ali2468MYSQL*:',  # Update your password
-    host='127.0.0.1',
+    host='154.192.59.188',
     database='resumes',
     auth_plugin='mysql_native_password'
 )
