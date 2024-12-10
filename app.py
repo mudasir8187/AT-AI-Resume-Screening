@@ -30,7 +30,7 @@ with col1:
     )
 with col2:
        # Use st.image for the logo
-    st.image("D:/AT Application Tracking System/AT App/logos/at_logo")
+    st.image("logos/at_logo")
    
 # Directory to save uploaded files
 UPLOAD_DIR = Path("uploaded_files")
